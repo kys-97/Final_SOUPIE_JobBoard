@@ -1,4 +1,4 @@
-package com.human.jav;
+package com.human.java;
 
 import java.text.DateFormat;
 import java.util.Date;
